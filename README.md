@@ -210,7 +210,6 @@ will be generated in the working directory.
 If you use **KRASPred** in your research, please cite:
 
 ```bibtex
-
+Kamble, P.; Varma, T.; Garg, P. KRASPred: A Deep Learning Tool for Predicting KRAS Inhibitors.
 ```
-
 ---
